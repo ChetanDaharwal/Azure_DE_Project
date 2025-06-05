@@ -15,6 +15,8 @@ Stores data in a structured format for analysis
 Enables rich visualizations for decision-making
 
 ---
+![image alt]
+
 
 ###🧱 Architecture Overview
          [External API Source]
