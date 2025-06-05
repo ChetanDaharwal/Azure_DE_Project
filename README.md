@@ -15,7 +15,7 @@ Stores data in a structured format for analysis
 Enables rich visualizations for decision-making
 
 ---
-![image alt]
+![image alt](https://github.com/ChetanDaharwal/Azure_DE_Project/blob/c25debf8563baefb112da585f7ab45a7d15718df/Project_Architecture.jpeg)
 
 
 ###🧱 Architecture Overview
