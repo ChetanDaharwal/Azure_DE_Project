@@ -19,7 +19,8 @@ Enables rich visualizations for decision-making
 
 
 ###🧱 Architecture Overview
-         [External API Source]
+          
+           [External API Source]
                   |
           Azure Data Factory (ADF)
                   |
